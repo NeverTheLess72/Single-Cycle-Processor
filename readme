@@ -1,0 +1,4 @@
+Write a testbench for the top module for it to work
+
+Need to create 2 distributed memory 1 for instruction memory and 1 for data memory
+
